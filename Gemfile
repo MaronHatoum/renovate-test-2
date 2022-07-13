@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.7.3'
+ruby '3.2.0-preview1'
 
 gem 'flipper'
 gem 'flipper-redis', '~> 0.22.2'
